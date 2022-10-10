@@ -24,7 +24,7 @@ const AddUser = (props) =>{
             return;
         }
 
-        if(age < 1){
+        if(+age < 1){
             return;
         }
 
