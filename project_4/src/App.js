@@ -7,8 +7,8 @@ const App = () =>{
     const [usersList, setUsersList] = useState([]);
 
     const userAddHandler = (user)=>{
-        setUsersList(prevUserList => (
-            [...prevUserList, user]
+        setUsersList(prevUsersList => (
+            [...prevUsersList, user]
         ));
     }
 
