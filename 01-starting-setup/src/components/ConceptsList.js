@@ -4,7 +4,8 @@ const ConceptsList = (props) =>{
     return(
         <ul id="concepts">
         {props.concepts.map(concept =>(
-            <ConceptElement 
+            <ConceptElement
+                key = {concept.title} 
                 title = {concept.title}
                 image = {concept.image}
                 description = {concept.description}
