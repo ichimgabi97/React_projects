@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Ioana 2","image":"https://www.pronatura.ch/sites/pronatura.ch/files/styles/hero_desktop/public/2022-11/hinteres_lauterbrunnental_schmadrifall_cr_matthias_sorg.jpg?itok=75xemldP","date":"2023-07-27","description":"Test Ioana","id":"cfbd1cb9-3d18-441b-bdc5-b05fafb5978a"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
