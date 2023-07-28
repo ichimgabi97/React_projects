@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Gabi","image":"https://www.pronatura.ch/sites/pronatura.ch/files/styles/hero_desktop/public/2022-11/hinteres_lauterbrunnental_schmadrifall_cr_matthias_sorg.jpg?itok=75xemldP","date":"2023-07-06","description":"Vrea sa mearga cu Ioana la LIDL!!!!!!!!!!!\nSemnat iubita ta <3","id":"f2e13ee1-ac2b-4f1a-bdbc-a7cb1008ab1e"},{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"ichimgabi97@gmail.com","password":"$2a$12$6Jcq4E1GS52nI8JwjfkI6.teSAhpAWYM7XIOXu72m6yFKc6oFa0/y","id":"06f4025b-0cc5-4039-8f6b-539d401dc751"},{"email":"ioanamaria1997@yahoo.com","password":"$2a$12$e4mFvk2mbh1oY.boCxnDsuLKLdxBIeooFL9WbbKfihWlbT92o.Gry","id":"09b6c85b-a158-444f-bf10-4d662654fc3f"}]}
